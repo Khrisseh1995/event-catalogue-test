@@ -2,7 +2,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-    - gh-page
+    - main
 permissions:
   contents: write
 jobs:
